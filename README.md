@@ -1,2 +1,2 @@
 # pig-game
- A simple dice game developed using HTML,CSS and Javascript.
+ A simple dice game developed using DOM Manipulation.
