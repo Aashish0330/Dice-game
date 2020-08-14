@@ -1,2 +1,2 @@
-# pig-game
+# Pig-game
  A simple dice game developed using DOM Manipulation.
